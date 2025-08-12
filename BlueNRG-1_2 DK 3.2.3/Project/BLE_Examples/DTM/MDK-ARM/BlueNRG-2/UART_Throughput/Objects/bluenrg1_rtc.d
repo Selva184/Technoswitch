@@ -1,0 +1,13 @@
+.\uart_throughput\objects\bluenrg1_rtc.o: ../../../../../Library/BlueNRG1_Periph_Driver/src/BlueNRG1_rtc.c
+.\uart_throughput\objects\bluenrg1_rtc.o: ..\..\..\..\..\Library\BlueNRG1_Periph_Driver\inc\BlueNRG1_rtc.h
+.\uart_throughput\objects\bluenrg1_rtc.o: ..\..\..\..\..\Library\CMSIS\Device\ST\BlueNRG1\Include\bluenrg_x_device.h
+.\uart_throughput\objects\bluenrg1_rtc.o: ..\..\..\..\..\Library\CMSIS\Device\ST\BlueNRG1\Include\BlueNRG2.h
+.\uart_throughput\objects\bluenrg1_rtc.o: ..\..\..\..\..\Library\CMSIS\Include\core_cm0.h
+.\uart_throughput\objects\bluenrg1_rtc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\uart_throughput\objects\bluenrg1_rtc.o: ..\..\..\..\..\Library\CMSIS\Include\core_cmInstr.h
+.\uart_throughput\objects\bluenrg1_rtc.o: ..\..\..\..\..\Library\CMSIS\Include\core_cmFunc.h
+.\uart_throughput\objects\bluenrg1_rtc.o: ..\..\..\..\..\Library\CMSIS\Device\ST\BlueNRG1\Include\system_BlueNRG2.h
+.\uart_throughput\objects\bluenrg1_rtc.o: ..\..\..\..\..\Library\hal\inc\compiler.h
+.\uart_throughput\objects\bluenrg1_rtc.o: ..\..\..\..\..\Library\hal\inc\hal_types.h
+.\uart_throughput\objects\bluenrg1_rtc.o: ..\..\..\..\..\Library\CMSIS\Include\core_cm0.h
+.\uart_throughput\objects\bluenrg1_rtc.o: ..\..\..\..\..\Library\CMSIS\Device\ST\BlueNRG1\Include\system_BlueNRG.h

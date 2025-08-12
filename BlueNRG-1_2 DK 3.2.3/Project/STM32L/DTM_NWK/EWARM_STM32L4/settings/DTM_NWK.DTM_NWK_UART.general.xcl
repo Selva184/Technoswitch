@@ -1,0 +1,15 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\bin\armSTLINK.dll" 
+
+"C:\Users\SelvakumarG\Desktop\BLE_Test\New_sdk\BlueNRG-1_2 DK 3.2.3\Project\STM32L\DTM_NWK\EWARM_STM32L4\DTM_NWK_UART\Exe\STM32L_Nucleo_DTM_UART.out" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/ST/STM32L4xx.dmac" 
+
+--flash_loader="C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm/config/flashloader/ST/FlashSTM32L4AxxG.board" 
+
+
+
+

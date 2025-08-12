@@ -1,0 +1,13 @@
+.\uart\objects\dtm_cmd_db.o: ../../src/DTM_cmd_db.c
+.\uart\objects\dtm_cmd_db.o: ..\..\..\..\..\Library\hal\inc\compiler.h
+.\uart\objects\dtm_cmd_db.o: ..\..\..\..\..\Library\Bluetooth_LE\inc\bluenrg1_api.h
+.\uart\objects\dtm_cmd_db.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\uart\objects\dtm_cmd_db.o: ..\..\..\..\..\Library\Bluetooth_LE\inc\ble_status.h
+.\uart\objects\dtm_cmd_db.o: ..\..\inc\ble.h
+.\uart\objects\dtm_cmd_db.o: ..\..\..\..\..\Library\Bluetooth_LE\inc\bluenrg1_events.h
+.\uart\objects\dtm_cmd_db.o: ..\..\..\..\..\Library\hal\inc\osal.h
+.\uart\objects\dtm_cmd_db.o: ..\..\..\..\..\Library\hal\inc\miscutil.h
+.\uart\objects\dtm_cmd_db.o: ..\..\..\..\..\Library\hal\inc\crash_handler.h
+.\uart\objects\dtm_cmd_db.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\uart\objects\dtm_cmd_db.o: ..\..\inc\DTM_cmd_db.h
+.\uart\objects\dtm_cmd_db.o: ..\..\inc\DTM_burst.h
